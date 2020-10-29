@@ -4,7 +4,7 @@ import time
 
 napis = pyfiglet.figlet_format("UWAGA")
 print(napis)
-print("program obsluguje tylko slowa: jeden, dwa, trzy, cztery, piec, szesc, siedem, osiem, dziewiec, zero. ")
+print("program obsluguje tylko slowa: jeden, dwa, trzy, cztery, piec, szesc, siedem, osiem, dziewiec, zero. wiecej informacji znajduje sie w pliku readme")
 time.sleep(5)
 
 bob.penup()
