@@ -226,5 +226,5 @@ if(zmienna == "zero"):
 
 
 
-print("Aby zakonczyc program nacisnij dowolny klawisz")
+print("Aby zakonczyc program nacisnij enter)
 zmienna = input()
